@@ -20,3 +20,7 @@
 &glidepoint_split_listener {
     status = "okay";
 };
+
+&glidepoint_split {
+    status = "disabled";
+};
